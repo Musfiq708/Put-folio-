@@ -7,6 +7,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 228px;
 }
 
 .headName {
@@ -48,4 +49,21 @@ nav li {
 nav a {
     text-decoration: none;
     color: rgb(71, 71, 71);
+}
+
+/* header retlated styles */
+.headero {
+    background-color: rgb(255, 248, 243);
+    ;
+}
+
+.banner {
+    padding: 30px 35px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+
+.banner-img {
+    width: 584px;
+    height: 676px;
 }
